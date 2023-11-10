@@ -1,0 +1,13 @@
+.ecommerce-cart {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(227, 247, 173);
+  padding: 20px;
+}
+
+.cart-c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
