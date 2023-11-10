@@ -5,9 +5,47 @@
   background-color: rgb(227, 247, 173);
   padding: 20px;
 }
-
+.icons-c {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+}
+.ecom {
+  font-family: 'Roboto';
+  font-size: 27px;
+  font-weight: 700;
+  transition: all;
+}
+.time-icon {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  padding: 22px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.wifi {
+  height: 20px;
+  width: 20px;
+}
 .cart-c {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: white;
+  box-shadow: 0px 1px 5px 1px;
+  border-radius: 12px;
+  width: 100px;
+}
+
+.cart-icon {
+  height: 50px;
+  width: 55px;
+}
+.bg-21 {
+  height: 100vh;
+  width: 30%;
+  background-color: blueviolet;
 }
